@@ -6,18 +6,6 @@ const GlobalStyle = createGlobalStyle`
     outline: none;
   }
 
-  #root {
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    position: relative;
-  }
-
-  html, body {
-    width: 100%;
-    height: 100%;
-  }
-
   body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -25,26 +13,12 @@ const GlobalStyle = createGlobalStyle`
     font-family: "Bebas Neue", cursive, sans-serif;
   }
 
-  body, h1, h2, h3, h4, h5, h6,
-  p, blockquote, pre, hr,
-  dl, dd, ol, ul, figure,
-  input, button, th, td, textarea, div {
+  body, h1, h2, h3, div {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     border: none;
     outline: none;
-  }
-
-  ul, ol, li {
-    list-style: none;
-  }
-
-  button {
-    border: 0 none;
-    border-radius: 0;
-    background-color: transparent;
-    cursor: pointer;
   }
 
   a {
@@ -55,7 +29,7 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
-  img, input, button {
+  img {
     vertical-align: middle;
   }
 `;
