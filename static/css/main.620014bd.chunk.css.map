@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/fonts/fonts.css"],"names":[],"mappings":"AAAA,WACE,wBAAyB,CACzB,4FACF","file":"main.620014bd.chunk.css","sourcesContent":["@font-face {\n  font-family: 'Bebas Neue';\n  src: url('assets/fonts/BebasNeue-Regular.ttf') format('truetype');\n}"]}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infinite-dogs-react/static/css/main.620014bd.chunk.css",
+    "main.js": "/infinite-dogs-react/static/js/main.d10e96fe.chunk.js",
+    "main.js.map": "/infinite-dogs-react/static/js/main.d10e96fe.chunk.js.map",
+    "runtime-main.js": "/infinite-dogs-react/static/js/runtime-main.367bac0f.js",
+    "runtime-main.js.map": "/infinite-dogs-react/static/js/runtime-main.367bac0f.js.map",
+    "static/js/2.c0e371ca.chunk.js": "/infinite-dogs-react/static/js/2.c0e371ca.chunk.js",
+    "static/js/2.c0e371ca.chunk.js.map": "/infinite-dogs-react/static/js/2.c0e371ca.chunk.js.map",
+    "index.html": "/infinite-dogs-react/index.html",
+    "static/css/main.620014bd.chunk.css.map": "/infinite-dogs-react/static/css/main.620014bd.chunk.css.map",
+    "static/js/2.c0e371ca.chunk.js.LICENSE.txt": "/infinite-dogs-react/static/js/2.c0e371ca.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/infinite-dogs-react/static/media/BebasNeue-Regular.9aa03f9d.ttf",
+    "static/media/loader.5700173c.svg": "/infinite-dogs-react/static/media/loader.5700173c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367bac0f.js",
+    "static/js/2.c0e371ca.chunk.js",
+    "static/css/main.620014bd.chunk.css",
+    "static/js/main.d10e96fe.chunk.js"
+  ]
+}
